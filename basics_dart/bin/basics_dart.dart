@@ -6,4 +6,7 @@ void main(){
   var a = stdin.readLineSync();  //Input string
 
   print('hello $a');
+
+  var b = stdin.readLineSync();
+  print("this is $b");
 }
